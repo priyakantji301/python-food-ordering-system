@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Application (Python Mini Project)
+Food Delivery System using Python
 
 This is a console-based food delivery application built using Python.
 
