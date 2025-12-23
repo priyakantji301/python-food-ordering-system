@@ -1,0 +1,17 @@
+{
+  "Main Course": {
+    "1": { "name": "Margherita Pizza", "price": 180 },
+    "2": { "name": "Veg Burger", "price": 120 },
+    "3": { "name": "Grilled Sandwich", "price": 100 }
+  },
+  "Snacks": {
+    "4": { "name": "French Fries", "price": 70 },
+    "5": { "name": "Garlic Bread", "price": 90 },
+    "6": { "name": "Cheese Balls", "price": 110 }
+  },
+  "Beverages": {
+    "7": { "name": "Cold Drink", "price": 40 },
+    "8": { "name": "Fresh Lime Soda", "price": 60 },
+    "9": { "name": "Iced Tea", "price": 50 }
+  }
+}

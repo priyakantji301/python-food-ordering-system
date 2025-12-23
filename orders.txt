@@ -1,0 +1,36 @@
+
+Order ID: 03ad0860
+Time: 21-12-2025 23:00:22
+Items:
+Pizza x 1
+Cold Drink x 2
+Total: ₹230
+--------------------------
+
+Order ID: 3c1d2a87
+Time: 21-12-2025 23:02:31
+Items:
+Total: ₹0
+------------------------------
+
+Order ID: 98fdc545
+Time: 21-12-2025 23:02:56
+Items:
+Total: ₹0
+------------------------------
+
+Order ID: 8fb146d0
+Time: 21-12-2025 23:04:13
+Items:
+French Fries x 1 = ₹70
+Veg Burger x 34 = ₹4080
+Total: ₹4150
+------------------------------
+
+Order ID: 8b4a9837
+Time: 21-12-2025 23:08:21
+Items:
+Garlic Bread x 2 = ₹180
+Cold Drink x 2 = ₹80
+Total: ₹260
+------------------------------
